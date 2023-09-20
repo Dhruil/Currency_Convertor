@@ -1,5 +1,5 @@
 # Currency_Convertor
-The C**urrency Exchange** Rate Calculator is a versatile and user-friendly web application designed to provide real-time currency exchange rates for various currencies worldwide. This open-source project is hosted on GitHub and aims to simplify currency conversion for travelers, businesses, and anyone in need of accurate and up-to-date exchange rate information.
+The **Currency Exchange** Rate Calculator is a versatile and user-friendly web application designed to provide real-time currency exchange rates for various currencies worldwide. This open-source project is hosted on GitHub and aims to simplify currency conversion for travelers, businesses, and anyone in need of accurate and up-to-date exchange rate information.
 
 **Key Features:**
 
